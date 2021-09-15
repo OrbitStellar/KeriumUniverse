@@ -36,3 +36,10 @@ Tax
 - 4% Liquidity pool 
 - 4% Joker function 
 - 5% Burn function
+
+
+Wallets that are holding more than 30 % of the total supply won ́t receive 
+reflections. That way holders will receive more reflections when the Burn Wallet 
+and Joker Wallet reach this limit. Only Kerium Holders that won’t sell for a 
+minimum of 28 Days will receive the Tax from the Joker Wallet. There will be a 
+Tax-free day every month where Investors don't have to pay the 18% buy tax.

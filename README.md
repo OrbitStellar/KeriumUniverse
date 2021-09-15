@@ -35,4 +35,4 @@ Tax
 - 5% Reflections in BNB 
 - 4% Liquidity pool 
 - 4% Joker function 
- -5% Burn function
+- 5% Burn function
